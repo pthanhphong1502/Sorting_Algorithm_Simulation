@@ -38,7 +38,7 @@ Xây dựng phần mềm mô phỏng thuật toán
 
 ### Danh sách các màn hình <a name="screen"></a>
 <p float="left">
-  <img src="./images/Sapxep.PNG" width="200" />
+  <img src="./images/Sapxep.PNG" />
 </p>
 
   
